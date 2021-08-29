@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sukriti. 
+- 👀 I’m interested in web designing and software development. 
+- 🌱 I’m currently learning more algorithms. 
+- 💞️ I’m looking to collaborate on C++ projects.
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/sukriti-kumari-32444417).
